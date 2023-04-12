@@ -7,3 +7,9 @@ soy constante y apasionado por lo que hago, esto me permite siempre llegar a un 
 Aptitudes: JavaScript · React.js · PostgreSQL · HTML · Node.js · railway · Hojas de estilos en cascada (CSS) · Redux.js · vite · sequalize · Express.js · auth0 · mercado pago
 
 Responsabilidad profesional · Comunicación interpersonal · Trabajo en equipo · Cooperación · Apoyo a compañeros
+
+Datos de contacto: 
+
+Email: leo.19-20@hotmail.com
+Cel: +57 3022220948
+País: Colombia 
