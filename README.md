@@ -11,5 +11,9 @@ Responsabilidad profesional · Comunicación interpersonal · Trabajo en equipo 
 Datos de contacto: 
 
 Email: leo.19-20@hotmail.com
+
 Cel: +57 3022220948
+
 País: Colombia 
+
+Linkedln https://www.linkedin.com/in/leonardo-guerrero-5aa501207
