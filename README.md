@@ -27,9 +27,8 @@ habilidades blandas:
 
 Adicional a esto tengo 10 años de experiencia en areas administrativas, gerenciales, comerciales, financieras, recursos humans y seguridad empresarial.
 
-Desarrollador full stack, experiencia durante el aprendizaje, manejo de grupos, accesoria y acompañamiento. 10 años de experiencia en cargos administrativos, gerenciales, contables, recursos humanos y seguridad empresarial.
 
-Puedes contactarme por:
+Puedes contactarme en:
 
 Email: leo.19-20@hotmail.com
 
