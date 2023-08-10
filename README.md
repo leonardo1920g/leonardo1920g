@@ -15,9 +15,9 @@ Tecnologias que uso :
 * HTML
 * CSS
 * trpc
-* netx.js
-* reat-query
-* tailwind-css
+* Netx.js
+* Reat-query
+* Tailwind-css
 
 habilidades blandas:
 
