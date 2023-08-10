@@ -1,6 +1,6 @@
 hola!  Mi nombre es Leonardo Guerrero.
 
-Soy un programador FullStack  apasionado y constante por lo que hago, estosa aspectos me han llevado a obtener  resultados optimos, tranajador, activo, responsable, honesto, con gran sentido  de pertenecia  y respeto por la empresa para la que trabajo , en ese mismo sentido  busco un empleo que de  estabilidad, tranquilidad un entorno laboral sano y respetuoso en el cual pueda aplicar y expandir mis habilidades y conocimientos .
+Soy un programador FullStack  enfocado en front-end, formo parte del equipo de desarrollo de una app la cual funciona con un algoritmo de búsqueda precisa en remoto con personas de 3 países utilizando la metodología scrum .
 
 Actualmente seguire desarrollando proyectos para crecimiento y expancion personal.
 
@@ -14,6 +14,10 @@ Tecnologias que uso :
 * GIT
 * HTML
 * CSS
+* trpc
+* netx.js
+* reat-query
+* tailwind-css
 
 habilidades blandas:
 
