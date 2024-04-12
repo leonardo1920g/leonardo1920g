@@ -1,6 +1,6 @@
 hola!  Mi nombre es Leonardo Guerrero.
 
-Soy un programador FullStack  enfocado en front-end, formo parte del equipo de desarrollo de una app la cual funciona con un algoritmo de búsqueda precisa en remoto con personas de 3 países utilizando la metodología scrum .
+Soy un programador FullStack  enfocado en Front-end con experiencia en diversos lenguajes, bibliotecas y frameworks para la creación de interfaces adaptables, dinámicas e intuitivas. Además, habilidades en el back-end para la creación de endpoints, implementación de operaciones CRUD y manipulación de bases de datos. Tengo experiencia trabajando con la metodología Scrum para una gestión eficiente de proyectos, así como en el uso de Git y GitHub para el control de versiones y la colaboración en equipo. Logro una integración perfecta entre el front-end y el back-end para proyectos de alta calidad y entregas eficientes.
 
 Actualmente seguire desarrollando proyectos para crecimiento y expancion personal.
 
@@ -12,12 +12,14 @@ Tecnologias que uso :
 * PostgresSQL
 * Sequalize
 * GIT
+* Git Hub
 * HTML
 * CSS
 * trpc
 * Netx.js
 * Reat-query
 * Tailwind-css
+* java
 
 habilidades blandas:
 
